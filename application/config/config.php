@@ -35,7 +35,7 @@ date_default_timezone_set('America/Lima');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/restaurante/';
+$config['base_url'] = 'https://jb-restaurante.herokuapp.com/';
 define ( "assets", $config ['base_url'] . "assets" ); 
 
 /*
