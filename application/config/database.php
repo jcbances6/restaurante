@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'bd_restaurante',
+	'hostname' => 'us-cdbr-east-04.cleardb.com',
+	'username' => 'b1bc9651c73cd2',
+	'password' => '45ba7684',
+	'database' => 'heroku_6945995a88d0763',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
