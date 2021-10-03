@@ -1,10 +1,10 @@
 
 
-var base_url = 'http://localhost/restaurante/';
+var base_url = 'https://jb-restaurante.herokuapp.com/';
 
-var url = base_url + getSegment(2);
+var url = base_url + getSegment(1);
 
-var controller = getSegment(3);
+var controller = getSegment(2);
 
 var formatter = new Intl.NumberFormat('es-PE', {
       style: 'currency',
