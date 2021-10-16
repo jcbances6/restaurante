@@ -11,7 +11,6 @@
 		"source": "https://github.com/bcit-ci/CodeIgniter"
 	},
 	"require": {
-		"ext-mbstring": "*",
 		"php": ">=5.3.7"
 	},
 	"suggest": {
